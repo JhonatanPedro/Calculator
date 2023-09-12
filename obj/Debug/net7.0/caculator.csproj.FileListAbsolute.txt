@@ -1,0 +1,14 @@
+C:\Users\daviw\Documents\projetos.c#\exercicios\caculator\bin\Debug\net7.0\caculator.exe
+C:\Users\daviw\Documents\projetos.c#\exercicios\caculator\bin\Debug\net7.0\caculator.deps.json
+C:\Users\daviw\Documents\projetos.c#\exercicios\caculator\bin\Debug\net7.0\caculator.runtimeconfig.json
+C:\Users\daviw\Documents\projetos.c#\exercicios\caculator\bin\Debug\net7.0\caculator.dll
+C:\Users\daviw\Documents\projetos.c#\exercicios\caculator\bin\Debug\net7.0\caculator.pdb
+C:\Users\daviw\Documents\projetos.c#\exercicios\caculator\obj\Debug\net7.0\caculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daviw\Documents\projetos.c#\exercicios\caculator\obj\Debug\net7.0\caculator.AssemblyInfoInputs.cache
+C:\Users\daviw\Documents\projetos.c#\exercicios\caculator\obj\Debug\net7.0\caculator.AssemblyInfo.cs
+C:\Users\daviw\Documents\projetos.c#\exercicios\caculator\obj\Debug\net7.0\caculator.csproj.CoreCompileInputs.cache
+C:\Users\daviw\Documents\projetos.c#\exercicios\caculator\obj\Debug\net7.0\caculator.dll
+C:\Users\daviw\Documents\projetos.c#\exercicios\caculator\obj\Debug\net7.0\refint\caculator.dll
+C:\Users\daviw\Documents\projetos.c#\exercicios\caculator\obj\Debug\net7.0\caculator.pdb
+C:\Users\daviw\Documents\projetos.c#\exercicios\caculator\obj\Debug\net7.0\caculator.genruntimeconfig.cache
+C:\Users\daviw\Documents\projetos.c#\exercicios\caculator\obj\Debug\net7.0\ref\caculator.dll
